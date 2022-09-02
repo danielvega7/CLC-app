@@ -7,6 +7,8 @@
 
 import UIKit
 import FirebaseAuth
+import FirebaseCore
+import GoogleSignIn
 
 class ViewController: UIViewController {
     var actionCodeSettings = ActionCodeSettings()
